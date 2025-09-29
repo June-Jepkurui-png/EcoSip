@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>EcoSip | Buy</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="buy-page">
+
+  <header>
+    <a href="index.html" class="logo">EcoSip</a>
+    <button class="menu-toggle">☰</button>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="features.html">Features</a></li>
+        <li><a href="reviews.html">Reviews</a></li>
+        <li><a href="buy.html" class="active btn">Buy Now</a></li>
+        <li><a href="faq.html">FAQ</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section class="buy-products">
+    <div class="product-card">
+      <h3>EcoSip Bottle - 500ml</h3>
+      <p>Price: $29.99</p>
+      <label for="qty1">Quantity:</label>
+      <input type="number" id="qty1" class="quantity" value="1" min="1">
+      <button>Add to Cart</button>
+    </div>
+
+    <div class="product-card">
+      <h3>EcoSip Bottle - 750ml</h3>
+      <p>Price: $39.99</p>
+      <label for="qty2">Quantity:</label>
+      <input type="number" id="qty2" class="quantity" value="1" min="1">
+      <button>Add to Cart</button>
+    </div>
+  </section>
+
+  <div class="cart-summary">
+    Total Items: <span id="cart-count">0</span>
+    <br>
+    Total Price: $<span id="cart-total">0.00</span>
+    <br>
+    <button id="checkout-btn">Checkout</button>
+  </div>
+
+  <footer>
+    <p>&copy; June EcoSip. All rights reserved.</p>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>
