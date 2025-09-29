@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "eco-sip/index.html", "use": "@vercel/static" }
+  ],
+  "routes": [
+    { "src": "/(.*)", "dest": "eco-sip/$1" }
+  ]
+}
