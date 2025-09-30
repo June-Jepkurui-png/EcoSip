@@ -1,23 +1,45 @@
 # EcoSip
 
-EcoSip is a multipage responsive website built with HTML5,CSS3, and JavaScript. It showcases a smart, eco-friendly water bottle with a clean modern design.
+**Smart, Sustainable, Stylish 🌱💧**
 
-## Features
+EcoSip is a simple, responsive website showcasing an eco-friendly smart bottle. Built with **HTML, CSS, and JavaScript**, it promotes sustainability and healthy hydration.
 
-* Multipage design (Home, Features, About, Contact)
-* Responsive layout for all devices
-* JavaScript form validation and interactivity
-* Deployed on GitHub Pages / Netlify / Vercel
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)
 
-## Live Demo
+---
 
-🔗 [View Website](https://your-live-demo-link.com)
+## ✨ Features
 
-## Setup
+* Modern responsive design
+* Hero section with call-to-action
+* Product showcase
+* Deployed on **Vercel**
 
-1. Clone the repo:
+---
+
+## 🛠 Tech Stack
+
+* HTML5
+* CSS3
+* JavaScript
+* Deployment: **Vercel**
+
+---
+
+## 🚀 Deployment
+
+👉 Live Link: [EcoSip on Vercel](your-vercel-link-here)
+
+---
+
+## ⚡ Installation
+
+1. Clone repo:
 
    ```bash
-   git clone https://github.com/yourusername/ecosip.git
+   git clone https://github.com/June-Jepkurui-png/EcoSip.git
    ```
-2. Open `index.html` in your browser.
+2. Open `index.html` in a browser.
