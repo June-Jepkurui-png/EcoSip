@@ -31,7 +31,7 @@ EcoSip is a simple, responsive website showcasing an eco-friendly smart bottle. 
 
 ## 🚀 Deployment
 
-👉 Live Link: [EcoSip on Vercel](your-vercel-link-here)
+👉 Live Link: [EcoSip on Vercel](https://eco-sip-xi.vercel.app/)
 
 ---
 
